@@ -12,6 +12,17 @@ The data types supported by JavaScript are:
 6. Number
 7. Object
 
+# What are the features of JavaScript?
+1. It is a lightweight, interpreted programming language.
+2. It is designed for creating network-centric applications.
+3. It is complementary to and integrated with Java.
+4. It is an open and cross-platform scripting language
+
+#  Is JavaScript a case-sensitive language?
+Yes, JavaScript is a case sensitive language.
+
+
+
 
 
 
